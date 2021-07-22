@@ -1,0 +1,1 @@
+# JavaScript-shift-slice-method
